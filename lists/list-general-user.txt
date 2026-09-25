@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# LacquerSorcererList/youtubezapret ce474de8e076
